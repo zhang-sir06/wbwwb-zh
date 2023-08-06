@@ -211,78 +211,78 @@ var textStrings_DE = {
 var textStrings_ZH_TW = {
     // Act 1
     "niceHat"              : "嗯哼 很棒的帽子"                                          ,
-    "outtaHere"            : "沒錯，掌握住那裡的失控"                                ,
-    "getARoom"             : "噁，何不在房間裡恩愛？"                                  ,
-    "notCoolAnymore"       : "這頂帽子已經不再酷炫"                          ,
-    "tvOnTv"               : "一台上了電視的...電視！"                                    ,
+    "outtaHere"            : "没错，掌握住那里的失控"                                ,
+    "getARoom"             : "恶心，何不在房间里恩爱？"                                  ,
+    "notCoolAnymore"       : "这顶帽子已经不再酷炫"                          ,
+    "tvOnTv"               : "一台上了电视的...电视！"                                    ,
     "cricky"               : "小蟋蟀 <3"                                        ,
-    "tooManyCrickets"      : "夠了，這就太多蟋蟀了"                         ,
-    "normalPeep"           : "只是個普通的民眾"                                    ,
-    "normalPeeps"          : "只是一群普通的民眾"                                ,
-    "wowNothing"           : "哇嗚, 你的鏡頭下什麼東西都沒有"                             ,
+    "tooManyCrickets"      : "够了，这就太多蟋蟀了"                         ,
+    "normalPeep"           : "只是个普通的民众"                                    ,
+    "normalPeeps"          : "只是一群普通的民众"                                ,
+    "wowNothing"           : "哇呜, 你的镜头下什么东西都没有"                             ,
 
     // Act 2
-    "crazySquareAttacks"   : "有瘋狂的 方形 四處攻擊"                                 ,
-    "justMissed"           : "喔, 有什麼被錯過了..."                                 ,
-    "somethingInteresting" : "(對！去拍下他們做了 *什麼* 有趣的事...)" ,
-    "whoIsScreaming"       : "(對！去拍下 *誰* 對他們大吼大叫)"               ,
-    "circleFearsSquares"   : "圓形們 害怕 方形"                                  ,
-    "whoScaresThem"        : "(對！去拍下他們 *誰* 使他們恐懼)"         ,
-    "areTheyScared"        : "(對！去拍下他們被 方形 *恐嚇* 時的樣子)"       , // not used
-    "squaresSnubCircles"   : "方形們 不屑 圓形"                                  ,
-    "areTheySnubbed"       : "(對！去拍下他們不屑 圓形的 *瞬間* )"        , // not used
-    "everyoneHates"        : "多數人皆討厭著其他人！！！"                           ,
-    "almostEveryoneHates"  : "幾乎所有人討厭著所有人..."                     ,
-    "squaresHateCircles"   : "方形們 討厭 圓形"                                  ,
-    "circlesHateSquares"   : "圓形們 討厭 方形"                                  ,
-    "areTheyYelling"       : "(對！去拍下他們朝別人 *嘶吼* 的樣子)"              , // not used
-    "nerdsNow"             : "現在，這些書呆子們在幹麻？"                        ,
-    "schockedPeep"         : "是什麼使這位民眾感到驚嚇?"                              ,
-    "whatever"             : "無所謂"                                              ,
+    "crazySquareAttacks"   : "有疯狂的 方形 四处攻击"                                 ,
+    "justMissed"           : "喔, 有什么被错过了..."                                 ,
+    "somethingInteresting" : "(对！去拍下他们做了 *什么* 有趣的事...)" ,
+    "whoIsScreaming"       : "(对！去拍下 *谁* 对他们大吼大叫)"               ,
+    "circleFearsSquares"   : "圆形们 害怕 方形"                                  ,
+    "whoScaresThem"        : "(对！去拍下他们 *谁* 使他们恐惧)"         ,
+    "areTheyScared"        : "(对！去拍下他们被 方形 *恐吓* 时的样子)"       , // not used
+    "squaresSnubCircles"   : "方形们 不屑 圆形"                                  ,
+    "areTheySnubbed"       : "(对！去拍下他们不屑 圆形的 *瞬间*)"        , // not used
+    "everyoneHates"        : "多数人皆讨厌着其他人！ ！ ！"                           ,
+    "almostEveryoneHates"  : "几乎所有人讨厌着所有人..."                     ,
+    "squaresHateCircles"   : "方形们 讨厌 圆形"                                  ,
+    "circlesHateSquares"   : "圆形们 讨厌 方形"                                  ,
+    "areTheyYelling"       : "(对！去拍下他们朝别人 *嘶吼* 的样子)"              , // not used
+    "nerdsNow"             : "现在，这些书呆子们在干吗？"                        ,
+    "schockedPeep"         : "是什么使这位民众感到惊吓?"                              ,
+    "whatever"             : "无所谓"                                              ,
 
     // Act 3
     "ellipsis"             : ". . ."                                                 ,
-    "coolNoMore"           : "這些帽子已經不酷了, 你沒聽說嗎？"           ,
-    "beScared"             : "恐懼吧. 憤怒吧."                                  ,
+    "coolNoMore"           : "这些帽子已经不酷了, 你没听说吗？"           ,
+    "beScared"             : "恐惧吧. 愤怒吧."                                  ,
 
     // MANIFESTO
     "manifesto" : [
        //"as if you viewers want GOOD news"       ,
-       "誰會想看 *這些人的互動* ?",
-       "和平只帶來無趣. 暴力則有助散播."    ,
+       "谁会想看 *这些人的互动* ?",
+       "和平只带来无趣. 暴力则有助散播."    ,
        //"peace is boring. conflict gets clicks." ,
-       "每個故事都需要一點衝突, 所以..."  ,
+       "每个故事都需要一点冲突, 所以..."  ,
        //"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
-       "給我拿出觀眾們想看的！"
+       "给我拿出观众们想看的！"
     ] ,
 
     // -- Strings currently in graphics resources --
 
     // (bg_preload.png) Preload screen
-    "playingTime"        : "遊戲時間約 5 分鐘" ,
-    "warning"            : "警告: 這個遊戲包含了\n勢利、粗魯、暴力血腥的場景,\n請遊戲者慎重斟酌體驗" ,
+    "playingTime"        : "游戏时间约 5 分钟" ,
+    "warning"            : "警告: 这个游戏包含了\n势利、粗鲁、暴力血腥的场景,\n请游戏者慎重斟酌体验" ,
 
     // (cam-instructions.png) Camera Instructions
-    "pointAndClick"      : "對準 & 點擊" ,
+    "pointAndClick"      : "对准 & 点击" ,
 
     // (chyron3.png)
-    "chyronNothing"      : "哇嗚, 你的鏡頭下 *什麼東西都沒有*" ,
+    "chyronNothing"      : "哇呜, 你的镜头下 *什么东西都没有*" ,
 
     // (credits0001.png)
-    "createdBy"          : "製作來自" ,
+    "createdBy"          : "制作来自" ,
     "NickyCase"          : "Nicky Case" ,
 
     // (credits0002.png)
-    "manyThanks"         : "對許多遊戲測試者的感謝:" ,
+    "manyThanks"         : "对许多游戏测试者的感谢:" ,
 
     // (credits000[3,4,5,6].png)
-    "patreonSupporters"  : "以及我的贊助支持者們:" ,
+    "patreonSupporters"  : "以及我的赞助支持者们:" ,
 
     // (credits0007.png)
-    "lastButNotLeast"    : "最後，但不僅於此," ,
+    "lastButNotLeast"    : "最后，但不仅于此," ,
 
     // (credits0008.png)
-    "thankYouForPlaying" : "感謝你的遊玩！" ,
+    "thankYouForPlaying" : "感谢你的游玩！" ,
 
     // (preload_play.png)
     "playButton"         : "PLAY" ,
@@ -290,18 +290,18 @@ var textStrings_ZH_TW = {
     // (end_button.png) Post Credits
     "otherWorkButton"    : "原作者的其他作品" ,
     "buyCoffeeButton"    : "贊助作者一杯咖啡" ,
-    "replayButton"       : "重新體驗遊戲" ,
+    "replayButton"       : "重新体验游戏" ,
 
     // (logo.png) Post Credits
-    "logoWBWWB"          : "分享這份傷痛：" ,
+    "logoWBWWB"          : "分享这份伤痛：" ,
 
     // (end_prototype.png)
-    "endOfPrototype"     : "試玩版本結束" ,
-    "toBeContinued"      : "(敬請期待後續)" ,
+    "endOfPrototype"     : "试玩版本结束" ,
+    "toBeContinued"      : "(敬请期待后续)" ,
 
     // (quote0002.png)
-    "WBWWB"              : "我們的所見會塑造我們." ,
-    "WSOTATOTSU"         : "我們塑造了我們的工具，然後工具再塑造我們." ,
+    "WBWWB"              : "我们的所见会塑造我们." ,
+    "WSOTATOTSU"         : "我们塑造了我们的工具，然后工具再塑造我们." ,
 
     // (quote0003.png)
     "MarshallMcLuhan"    : "Marshall McLuhan" ,
